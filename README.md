@@ -1,5 +1,3 @@
-# DSA Hub
-
 A community-driven repository of **Data Structures & Algorithms** solutions organized by **programming language**, **topic**, and **difficulty level**.
 
 Whether you're preparing for coding interviews, strengthening your problem-solving skills, or contributing to open source, this repository provides a clean and scalable collection of DSA solutions for learners of all levels.
