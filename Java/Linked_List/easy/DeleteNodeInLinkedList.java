@@ -1,4 +1,3 @@
-package Java.Linked_List.easy;
 // Problem Link: https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 /*
